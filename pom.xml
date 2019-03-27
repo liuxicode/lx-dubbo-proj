@@ -9,8 +9,9 @@
     <packaging>pom</packaging>
     <version>1.0.0-SNAPSHOT</version>
     <modules>
-        <module>lx-dubbo-api</module>
-        <module>lx-dubbo-api</module>
+        <module>liuxi-dubbo-api</module>
+        <module>lx-dubbo-consumer</module>
+        <module>lx-dubbo-provider</module>
     </modules>
 
 
